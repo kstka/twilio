@@ -1,0 +1,4 @@
+account_sid = ''
+auth_token = ''
+twilio_number = '+1111111'
+to_numbers = ['+22222222', '+33333333']
